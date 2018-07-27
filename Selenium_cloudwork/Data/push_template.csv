@@ -1,0 +1,22 @@
+No,Name,State,ChannelId,Signature,Code,Content,EscapeContent,,,,,,,,
+1,身份验证验证码,tmp-enable,短信,易联云,SMS_25115013,验证码${code}，您正在进行${product}身份验证，打死不要告诉别人哦！,验证码${code}，您正在进行${product}身份验证，打死不要告诉别人哦！,code,1314,product,UserNo,,,,
+2,安检通知,tmp-enable,短信,易联云,SMS_116375001,"尊敬的${tenantName}用户，您好！ ${userName}安检员将于${safecheckDate}上门进行燃气安全检查，届时希望您
+的配合，谢谢您对我们工作的支持！
+","尊敬的${tenantName}用户，您好！ ${userName}安检员将于${safecheckDate}上门进行燃气安全检查，届时希望您
+的配合，谢谢您对我们工作的支持！
+",tenantName,test1,userName,易联云,safecheckDate,2018/1/1,,
+3,缴费成功提醒,tmp-enable,微信,,yc-c_0QUbyWimi8Xy0T7cPVdn_mkS7sBvRHBOyzibn0,"{{first}}
+缴费时间：{{keyword1}}
+缴费金额：{{keyword2}}
+{{remark}}
+","{{first}}
+缴费时间：{{keyword1}}
+缴费金额：{{keyword2}}
+{{remark}}",first,缴费成功,keyword1,2018/1/1,keyword2,100元,remark,备注信息:缴费成功提醒
+4,在线学习党建知识通知,tmp-enable,微信,,fjXdsjiEj9dcYhipT3-Jr2tSbKEhcc6cSJHtG_o4obA,"{{first}}
+学习时间：{{keyword1}}
+学习内容：{{keyword2}}
+{{remark}}","{{first}}
+学习时间：{{keyword1}}
+学习内容：{{keyword2}}
+{{remark}}",first,十八大报告,keyword1,2018/1/1,keyword2,十八大报告学习,remark,备注信息:在线学习党建知识通知

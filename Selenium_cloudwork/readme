@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+Case_Report--存放测试报告
+Config--配置文件
+Constan--常量文件
+Data--参数化文件
+Error_picture--错误截图
+Eslink_Case--测试用例
+Eslink_Suite--测试套件组件
+Log--运行日志
+Utils--封装工具包
+Run_all_test--运行文件
+
+
